@@ -15,10 +15,10 @@ Innovative Aspects of the project is using Image-to-image translation, we utilis
 You can see the project video description from this link 
 [https://lnkd.in/dV-Qi2tk]
   ## Team Members:
-  - Maghfera Shrief, ML Engineer & Data Scientist
+  - Maghfera Shrief, ML Engineer & Data Scientist "Business Developer" 
   - Yussra Elsayed, ML Engineer & Data Scientist
   - Mohamed Taha, ML Engineer & Data Scientist
-  - Abdelrahman Bebars, Backend Developer
+  - Abdelrahman Bebars, Backend Developer "Business Developer" 
   - Ahmed Abdallah, Mobile App Developer
   - Shomoa Mohammed, IoT Engineer
   - Habeba Ahmed, IoT Engineer
